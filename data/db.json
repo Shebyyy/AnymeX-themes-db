@@ -42,6 +42,15 @@
       "isActive": true,
       "createdAt": "2026-04-04T12:11:13.440Z",
       "lastLoginAt": "2026-04-04T12:12:17.445Z"
+    },
+    {
+      "id": "cmnluhulsbx1u7xi6bpl",
+      "username": "Neoniq",
+      "passwordHash": "814e191e6acdbc7eb439215eeffbad1592b42ed22e1e70426cf0bcd66675be25",
+      "profileUrl": null,
+      "role": "THEME_CREATOR",
+      "isActive": true,
+      "createdAt": "2026-04-05T14:16:54.832Z"
     }
   ],
   "PasswordReset": [],
