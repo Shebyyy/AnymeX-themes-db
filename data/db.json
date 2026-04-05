@@ -50,7 +50,8 @@
       "profileUrl": null,
       "role": "THEME_CREATOR",
       "isActive": true,
-      "createdAt": "2026-04-05T14:16:54.832Z"
+      "createdAt": "2026-04-05T14:16:54.832Z",
+      "lastLoginAt": "2026-04-05T14:16:57.386Z"
     }
   ],
   "PasswordReset": [],
