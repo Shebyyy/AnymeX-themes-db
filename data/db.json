@@ -52,6 +52,15 @@
       "isActive": true,
       "createdAt": "2026-04-05T14:16:54.832Z",
       "lastLoginAt": "2026-04-10T10:11:58.212Z"
+    },
+    {
+      "id": "cmo1cukjwi8v9ppyn0ap",
+      "username": "Yuvie",
+      "passwordHash": "286a3a74ed01a64f7edb0965e2dc7e39d36adae2821a14845a0a658aeed9d211",
+      "profileUrl": null,
+      "role": "THEME_CREATOR",
+      "isActive": true,
+      "createdAt": "2026-04-16T10:47:14.060Z"
     }
   ],
   "PasswordReset": [],
