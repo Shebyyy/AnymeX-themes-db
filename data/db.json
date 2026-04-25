@@ -72,6 +72,15 @@
       "isActive": true,
       "createdAt": "2026-04-25T06:56:48.700Z",
       "lastLoginAt": "2026-04-25T08:12:14.714Z"
+    },
+    {
+      "id": "cmoe4cqg1b0w6jqvf295",
+      "username": "InternetNinja",
+      "passwordHash": "9c07709d49226c03d09e2b1580c66433bb71e48b27a5085bcd166d413fe75ba8",
+      "profileUrl": "https://github.com/zer0ninja",
+      "role": "THEME_CREATOR",
+      "isActive": true,
+      "createdAt": "2026-04-25T09:10:25.249Z"
     }
   ],
   "PasswordReset": [],
