@@ -82,6 +82,15 @@
       "isActive": true,
       "createdAt": "2026-04-25T09:10:25.249Z",
       "lastLoginAt": "2026-04-25T10:05:02.710Z"
+    },
+    {
+      "id": "cmoeb4ew2i6kplgv8oi",
+      "username": "g1nyu",
+      "passwordHash": "4b79d0bcce42466f6b2c9f06389a9f950326937ae20811474638b0df4c6a62d0",
+      "profileUrl": "https://github.com/G1NYU",
+      "role": "THEME_CREATOR",
+      "isActive": true,
+      "createdAt": "2026-04-25T12:19:54.338Z"
     }
   ],
   "PasswordReset": [],
