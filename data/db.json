@@ -373,6 +373,23 @@
       "createdAt": "2026-04-25T15:01:20.008Z",
       "updatedAt": "2026-04-25T15:01:20.008Z",
       "discordPostId": "1497613492423753923"
+    },
+    {
+      "id": "cmoeiuepq7vggjk3aqvh",
+      "themeId": "crunchyroll",
+      "name": "Crunchyroll",
+      "description": "Closest I can get to Crunchyroll player I'm too lazy to finish it",
+      "themeJson": "{\"themes\":[{\"id\":\"crunchyroll_final_fix\",\"name\":\"Crunchyroll_lol\",\"author\":\"Milkywave\",\"palette\":{\"bg\":\"#000000\",\"bg_solid\":\"#141519\",\"bg_panel\":\"transparent\",\"bg_border\":\"transparent\",\"bg_border_hi\":\"#F47521\",\"accent\":\"#F47521\",\"player_accent\":\"#F47521\",\"fg\":\"#FFFFFF\",\"white\":\"#FFFFFF\",\"black\":\"#000000\",\"transparent\":\"transparent\"},\"styles\":{\"panel\":{\"enabled\":false,\"showBackground\":false,\"showBorder\":false,\"radius\":0,\"blur\":0,\"color\":\"transparent\",\"borderColor\":\"transparent\",\"borderWidth\":0},\"button\":{\"size\":48,\"radius\":0,\"blur\":0,\"color\":\"transparent\",\"borderColor\":\"transparent\",\"iconColor\":\"@fg\"},\"primaryButton\":{\"size\":150,\"radius\":0,\"blur\":0,\"color\":\"transparent\",\"borderColor\":\"transparent\",\"iconColor\":\"#FFFFFF\"},\"chip\":{\"radius\":25,\"color\":\"rgba(255,255,255,0.1)\",\"borderColor\":\"transparent\",\"textColor\":\"@fg\",\"fontSize\":13},\"text\":{\"textColor\":\"@fg\",\"fontSize\":14}},\"top\":{\"alignment\":\"topLeft\",\"normal\":{\"left\":[{\"id\":\"back\"},{\"id\":\"gap\",\"size\":10},{\"id\":\"watching_label\",\"topText\":\"CRUNCHYROLL\",\"topColor\":\"#F47521\",\"bottomColor\":\"#FFFFFF\"}]}},\"middle\":{\"alignment\":\"center\",\"normal\":{\"items\":[{\"id\":\"play_pause\",\"primary\":true}]}},\"bottom\":{\"alignment\":\"bottomCenter\",\"normal\":{\"outside\":{\"center\":[{\"id\":\"mega_seek\"}]},\"left\":[{\"id\":\"time_current\"},{\"id\":\"gap\",\"size\":30},{\"id\":\"previous_episode\"}],\"right\":[{\"id\":\"open_settings\"},{\"id\":\"gap\",\"size\":30},{\"id\":\"toggle_fullscreen\"},{\"id\":\"gap\",\"size\":30},{\"id\":\"time_duration\"}]}}}]}\n",
+      "creatorName": "Milkywave",
+      "category": "Dark",
+      "previewData": null,
+      "previewImage": "https://raw.githubusercontent.com/Shebyyy/AnymeX-themes-db/main/uploads/previews/preview_1777132562924_wgepes1cv39.png",
+      "likesCount": 0,
+      "viewsCount": 0,
+      "status": "PENDING",
+      "createdBy": "cmodzkwu4h8nbl7mqrj6",
+      "createdAt": "2026-04-25T15:56:04.478Z",
+      "updatedAt": "2026-04-25T15:56:04.478Z"
     }
   ],
   "ThemeLike": [
