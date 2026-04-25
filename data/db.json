@@ -91,6 +91,15 @@
       "role": "THEME_CREATOR",
       "isActive": true,
       "createdAt": "2026-04-25T12:19:54.338Z"
+    },
+    {
+      "id": "cmoeeo17817femr9a5y1",
+      "username": "itsmechinmoy",
+      "passwordHash": "a86af928bf59e6dfb7cbfba8a5a09eed2b5ba9b9e504e70aff276be8430f513c",
+      "profileUrl": "https://github.com/itsmechinmoy",
+      "role": "THEME_CREATOR",
+      "isActive": true,
+      "createdAt": "2026-04-25T13:59:08.564Z"
     }
   ],
   "PasswordReset": [],
