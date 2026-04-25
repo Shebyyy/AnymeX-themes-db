@@ -355,6 +355,23 @@
       "createdAt": "2026-04-25T11:35:07.780Z",
       "updatedAt": "2026-04-25T11:35:07.780Z",
       "discordPostId": "1497561599421055039"
+    },
+    {
+      "id": "cmoegw0egkgtq1zu7z19",
+      "themeId": "amethyst_glass",
+      "name": "Amethyst Glass",
+      "description": "Behold my new theme (I'm playing around with jsons)",
+      "themeJson": "{\"themes\":[{\"id\":\"tokai_teio_purple_ghost\",\"name\":\"amethyst_ghost\",\"author\":\"Milkywave\",\"palette\":{\"bg\":\"rgba(20,10,35,0.9)\",\"bg_solid\":\"rgba(20,10,35,1.0)\",\"bg_panel\":\"rgba(187,154,247,0.20)\",\"bg_border\":\"rgba(187,154,247,0.60)\",\"bg_border_hi\":\"rgba(187,154,247,0.9)\",\"accent\":\"#bb9af7\",\"accent_dim\":\"rgba(187,154,247,0.15)\",\"accent_glow\":\"rgba(187,154,247,0.25)\",\"cyan\":\"#7aa2f7\",\"cyan_dim\":\"rgba(122,162,247,0.15)\",\"purple\":\"#bb9af7\",\"purple_dim\":\"rgba(187,154,247,0.15)\",\"rose\":\"#f7768e\",\"rose_dim\":\"rgba(247,118,142,0.15)\",\"green\":\"#9ece6a\",\"green_dim\":\"rgba(158,206,106,0.15)\",\"fg\":\"#ffffff\",\"fg_dim\":\"rgba(255,255,255,0.75)\",\"fg_faint\":\"rgba(255,255,255,0.4)\",\"white\":\"#ffffff\",\"black\":\"#000000\",\"transparent\":\"transparent\"},\"styles\":{\"panel\":{\"enabled\":true,\"showBackground\":true,\"showBorder\":true,\"radius\":24,\"blur\":5,\"color\":\"@bg_panel\",\"borderColor\":\"@bg_border\",\"borderWidth\":0.8,\"padding\":{\"horizontal\":14,\"vertical\":10},\"shadowColor\":\"rgba(0,0,0,0.4)\",\"shadowBlur\":15},\"button\":{\"size\":40,\"radius\":15,\"blur\":2,\"color\":\"rgba(187,154,247,0.10)\",\"borderColor\":\"@bg_border\",\"iconColor\":\"@fg\"},\"primaryButton\":{\"size\":56,\"radius\":20,\"blur\":5,\"color\":\"rgba(187,154,247,0.20)\",\"borderColor\":\"@bg_border_hi\",\"iconColor\":\"@accent\"},\"chip\":{\"radius\":12,\"color\":\"rgba(187,154,247,0.15)\",\"borderColor\":\"@bg_border\",\"textColor\":\"@fg\",\"fontSize\":11,\"padding\":{\"horizontal\":9,\"vertical\":4}},\"text\":{\"textColor\":\"@fg\",\"fontSize\":13}},\"top\":{\"alignment\":\"topCenter\",\"panelStyle\":{\"radius\":24,\"blur\":5,\"color\":\"@bg_panel\"},\"normal\":{\"left\":[{\"id\":\"back\"}],\"center\":[{\"id\":\"watching_label\",\"topText\":\"AMETHYST GHOST\",\"topColor\":\"@accent\",\"bottomColor\":\"@fg\"},{\"id\":\"gap\",\"size\":8},{\"id\":\"episode_badge\"},{\"id\":\"quality_badge\"}],\"right\":[{\"id\":\"open_settings\"},{\"id\":\"lock_controls\"},{\"id\":\"toggle_fullscreen\"}]},\"locked\":{\"right\":[{\"id\":\"unlock_controls\"}]}},\"middle\":{\"alignment\":\"center\",\"normal\":{\"items\":[{\"id\":\"previous_episode\"},{\"id\":\"seek_back\",\"seconds\":10},{\"id\":\"play_pause\",\"primary\":true},{\"id\":\"seek_forward\",\"seconds\":10},{\"id\":\"next_episode\"}]}},\"bottom\":{\"alignment\":\"bottomCenter\",\"panelStyle\":{\"radius\":24,\"blur\":5,\"color\":\"@bg_panel\"},\"normal\":{\"outside\":{\"right\":[{\"id\":\"mega_seek\"}]},\"left\":[{\"id\":\"time_current\"},{\"id\":\"playlist\"},{\"id\":\"shaders\"}],\"right\":[{\"id\":\"subtitles\"},{\"id\":\"audio_track\"},{\"id\":\"speed\"},{\"id\":\"quality\"},{\"id\":\"server\"},{\"id\":\"orientation\"},{\"id\":\"aspect_ratio\"},{\"id\":\"time_duration\"}]}}}]}\n",
+      "creatorName": "Milkywave",
+      "category": "Dark",
+      "previewData": null,
+      "previewImage": "https://raw.githubusercontent.com/Shebyyy/AnymeX-themes-db/main/uploads/previews/preview_1777129277555_rz4hpoh0208.png",
+      "likesCount": 0,
+      "viewsCount": 0,
+      "status": "PENDING",
+      "createdBy": "cmodzkwu4h8nbl7mqrj6",
+      "createdAt": "2026-04-25T15:01:20.008Z",
+      "updatedAt": "2026-04-25T15:01:20.008Z"
     }
   ],
   "ThemeLike": [
