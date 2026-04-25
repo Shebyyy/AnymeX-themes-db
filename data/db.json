@@ -62,6 +62,15 @@
       "isActive": true,
       "createdAt": "2026-04-16T10:47:14.060Z",
       "lastLoginAt": "2026-04-16T10:48:17.567Z"
+    },
+    {
+      "id": "cmodzkwu4h8nbl7mqrj6",
+      "username": "Milkywave",
+      "passwordHash": "dc9b14a875f26ebac42d00553790c4378df311835b1c279351e67ed6e71ebe36",
+      "profileUrl": null,
+      "role": "THEME_CREATOR",
+      "isActive": true,
+      "createdAt": "2026-04-25T06:56:48.700Z"
     }
   ],
   "PasswordReset": [],
