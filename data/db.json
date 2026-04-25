@@ -340,24 +340,6 @@
       "createdAt": "2026-04-25T11:35:07.780Z",
       "updatedAt": "2026-04-25T11:35:07.780Z",
       "discordPostId": "1497561599421055039"
-    },
-    {
-      "id": "cmoeby77nzbadsdeqgtn",
-      "themeId": "arctic_light",
-      "name": "Arctic light",
-      "description": "A clean, modern light theme with indigo accents. Crisp whites and subtle grays for a distraction-free experience.",
-      "themeJson": "{\r\n  \"name\": \"Arctic Light\",\r\n  \"description\": \"A clean, modern light theme with indigo accents. Crisp whites and subtle grays for a distraction-free experience.\",\r\n  \"category\": \"Light\",\r\n  \"colors\": {\r\n    \"primary\": \"#6366f1\",\r\n    \"secondary\": \"#8b5cf6\",\r\n    \"background\": \"#f8f9fc\",\r\n    \"foreground\": \"#111827\",\r\n    \"card\": \"#ffffff\",\r\n    \"cardForeground\": \"#1f2937\",\r\n    \"border\": \"#e2e8f0\",\r\n    \"accent\": \"#eef2ff\"\r\n  },\r\n  \"typography\": {\r\n    \"fontFamily\": \"Inter, 'Segoe UI', sans-serif\",\r\n    \"fontSize\": {\r\n      \"small\": \"0.875rem\",\r\n      \"medium\": \"1rem\",\r\n      \"large\": \"1.25rem\"\r\n    }\r\n  },\r\n  \"spacing\": {\r\n    \"small\": \"0.5rem\",\r\n    \"medium\": \"1rem\",\r\n    \"large\": \"2rem\"\r\n  },\r\n  \"effects\": {\r\n    \"blur\": \"10px\",\r\n    \"shadow\": \"0 2px 12px -2px rgba(99, 102, 241, 0.10)\",\r\n    \"borderRadius\": \"0.75rem\"\r\n  }\r\n}",
-      "creatorName": "g1nyu",
-      "category": "Light",
-      "previewData": null,
-      "previewImage": "https://raw.githubusercontent.com/Shebyyy/AnymeX-themes-db/main/uploads/previews/preview_1777120982557_c7vnv62utk.png",
-      "likesCount": 0,
-      "viewsCount": 1,
-      "status": "PENDING",
-      "createdBy": "cmoeb4ew2i6kplgv8oi",
-      "createdAt": "2026-04-25T12:43:04.067Z",
-      "updatedAt": "2026-04-25T12:43:04.067Z",
-      "discordPostId": "1497578697023029431"
     }
   ],
   "ThemeLike": [
