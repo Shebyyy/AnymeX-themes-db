@@ -71,7 +71,7 @@
       "role": "THEME_CREATOR",
       "isActive": true,
       "createdAt": "2026-04-25T06:56:48.700Z",
-      "lastLoginAt": "2026-04-25T07:00:29.840Z"
+      "lastLoginAt": "2026-04-25T07:00:36.187Z"
     }
   ],
   "PasswordReset": [],
@@ -395,11 +395,6 @@
     {
       "id": "cmodtw3xjpsfkufc4nrm",
       "themeId": "cmmgadbak0001l804fm0bu2lk",
-      "userToken": "anymex_1777090646513_ee5yigr4w"
-    },
-    {
-      "id": "cmodzps1ysi5nsws9a0h",
-      "themeId": "cmmgdmqwi0001l804z6qmbf12",
       "userToken": "anymex_1777090646513_ee5yigr4w"
     }
   ],
