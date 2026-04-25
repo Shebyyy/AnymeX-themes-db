@@ -325,6 +325,23 @@
       "createdAt": "2026-04-25T11:28:33.959Z",
       "updatedAt": "2026-04-25T11:28:33.959Z",
       "discordPostId": "1497559946684792914"
+    },
+    {
+      "id": "cmoe9itxgrsy6unmnnc",
+      "themeId": "seawater",
+      "name": "Seawater",
+      "description": "Works on mobile idk for desktop ",
+      "themeJson": "{\"themes\":[{\"id\":\"tokai_teio\",\"name\":\"sea_water\",\"author\":\"Milkywave\",\"palette\":{\"bg\":\"rgba(0,35,40,0.9)\",\"bg_solid\":\"rgba(0,35,40,1.0)\",\"bg_panel\":\"rgba(0,60,70,0.65)\",\"bg_border\":\"rgba(0,245,212,0.40)\",\"bg_border_hi\":\"rgba(0,245,212,0.6)\",\"accent\":\"#00f5d4\",\"accent_dim\":\"rgba(0,245,212,0.15)\",\"accent_glow\":\"rgba(0,245,212,0.25)\",\"cyan\":\"#90e0ef\",\"cyan_dim\":\"rgba(144,224,239,0.15)\",\"purple\":\"#00b4d8\",\"purple_dim\":\"rgba(0,180,216,0.15)\",\"rose\":\"#ff9e00\",\"rose_dim\":\"rgba(255,158,0,0.15)\",\"green\":\"#2ecc71\",\"green_dim\":\"rgba(46,204,113,0.15)\",\"fg\":\"#ffffff\",\"fg_dim\":\"rgba(255,255,255,0.75)\",\"fg_faint\":\"rgba(255,255,255,0.4)\",\"white\":\"#ffffff\",\"black\":\"#000000\",\"transparent\":\"transparent\"},\"styles\":{\"panel\":{\"enabled\":true,\"showBackground\":true,\"showBorder\":true,\"radius\":24,\"blur\":45,\"color\":\"@bg_panel\",\"borderColor\":\"@bg_border\",\"borderWidth\":0.6,\"padding\":{\"horizontal\":14,\"vertical\":10},\"shadowColor\":\"rgba(0,0,0,0.3)\",\"shadowBlur\":35},\"button\":{\"size\":40,\"radius\":15,\"blur\":25,\"color\":\"rgba(0,245,212,0.08)\",\"borderColor\":\"@bg_border\",\"iconColor\":\"@fg\"},\"primaryButton\":{\"size\":56,\"radius\":20,\"blur\":35,\"color\":\"rgba(0,245,212,0.15)\",\"borderColor\":\"@bg_border_hi\",\"iconColor\":\"@accent\"},\"chip\":{\"radius\":12,\"color\":\"rgba(0,245,212,0.1)\",\"borderColor\":\"@bg_border\",\"textColor\":\"@fg\",\"fontSize\":11,\"padding\":{\"horizontal\":9,\"vertical\":4}},\"text\":{\"textColor\":\"@fg\",\"fontSize\":13}},\"top\":{\"alignment\":\"topCenter\",\"panelStyle\":{\"radius\":24,\"blur\":40,\"color\":\"@bg_panel\"},\"normal\":{\"left\":[{\"id\":\"back\"}],\"center\":[{\"id\":\"watching_label\",\"topText\":\"SEA WATER\",\"topColor\":\"@accent\",\"bottomColor\":\"@fg\"},{\"id\":\"gap\",\"size\":8},{\"id\":\"episode_badge\"},{\"id\":\"quality_badge\"}],\"right\":[{\"id\":\"open_settings\"},{\"id\":\"lock_controls\"},{\"id\":\"toggle_fullscreen\"}]},\"locked\":{\"right\":[{\"id\":\"unlock_controls\"}]}},\"middle\":{\"alignment\":\"center\",\"normal\":{\"items\":[{\"id\":\"previous_episode\"},{\"id\":\"seek_back\",\"seconds\":10},{\"id\":\"play_pause\",\"primary\":true},{\"id\":\"seek_forward\",\"seconds\":10},{\"id\":\"next_episode\"}]}},\"bottom\":{\"alignment\":\"bottomCenter\",\"panelStyle\":{\"radius\":24,\"blur\":45,\"color\":\"@bg_panel\"},\"normal\":{\"outside\":{\"right\":[{\"id\":\"mega_seek\"}]},\"left\":[{\"id\":\"time_current\"},{\"id\":\"playlist\"},{\"id\":\"shaders\"}],\"right\":[{\"id\":\"subtitles\"},{\"id\":\"audio_track\"},{\"id\":\"speed\"},{\"id\":\"quality\"},{\"id\":\"server\"},{\"id\":\"orientation\"},{\"id\":\"aspect_ratio\"},{\"id\":\"time_duration\"}]}}}]}\n",
+      "creatorName": "Milkywave",
+      "category": "Dark",
+      "previewData": null,
+      "previewImage": "https://raw.githubusercontent.com/Shebyyy/AnymeX-themes-db/main/uploads/previews/preview_1777116905890_v7krrt2whp.png",
+      "likesCount": 0,
+      "viewsCount": 0,
+      "status": "PENDING",
+      "createdBy": "cmodzkwu4h8nbl7mqrj6",
+      "createdAt": "2026-04-25T11:35:07.780Z",
+      "updatedAt": "2026-04-25T11:35:07.780Z"
     }
   ],
   "ThemeLike": [
