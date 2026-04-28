@@ -35,16 +35,6 @@
       "discordUserId": "612532963938271232"
     },
     {
-      "id": "cmnkakcyo00nvgohfgl0c",
-      "username": "Test",
-      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
-      "profileUrl": null,
-      "role": "THEME_CREATOR",
-      "isActive": true,
-      "createdAt": "2026-04-04T12:11:13.440Z",
-      "lastLoginAt": "2026-04-04T12:12:17.445Z"
-    },
-    {
       "id": "cmnluhulsbx1u7xi6bpl",
       "username": "Neoniq",
       "passwordHash": "814e191e6acdbc7eb439215eeffbad1592b42ed22e1e70426cf0bcd66675be25",
