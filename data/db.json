@@ -388,6 +388,23 @@
       "createdAt": "2026-04-25T15:56:04.478Z",
       "updatedAt": "2026-04-25T15:56:04.478Z",
       "discordPostId": "1497627268405526671"
+    },
+    {
+      "id": "cmor5z4f2o0gezze265",
+      "themeId": "darkoled",
+      "name": "Darkoled",
+      "description": "For oled works for mobile idk for desktop",
+      "themeJson": "{\"themes\":[{\"id\":\"Darkoled\",\"name\":\"Darkoled\",\"author\":\"Milkywave\",\"palette\":{\"bg\":\"#000000\",\"bg_solid\":\"#000000\",\"bg_panel\":\"rgba(0,0,0,0.98)\",\"bg_border\":\"rgba(255,255,255,0.15)\",\"accent\":\"#FFEA00\",\"accent_dim\":\"rgba(255,234,0,0.2)\",\"fg\":\"#FFFFFF\",\"white\":\"#FFFFFF\",\"black\":\"#000000\",\"transparent\":\"transparent\",\"teio_gold\":\"#FFEA00\"},\"styles\":{\"panel\":{\"enabled\":true,\"showBackground\":true,\"showBorder\":true,\"radius\":12,\"blur\":0,\"color\":\"#000000\",\"borderColor\":\"@bg_border\",\"borderWidth\":1.2,\"padding\":{\"horizontal\":20,\"vertical\":15}},\"button\":{\"size\":44,\"radius\":10,\"blur\":0,\"color\":\"rgba(255,255,255,0.05)\",\"borderColor\":\"rgba(255,255,255,0.1)\",\"iconColor\":\"#FFFFFF\"},\"primaryButton\":{\"size\":64,\"radius\":32,\"blur\":0,\"color\":\"rgba(255,234,0,0.1)\",\"borderColor\":\"@teio_gold\",\"iconColor\":\"@teio_gold\"},\"chip\":{\"radius\":8,\"color\":\"#111111\",\"borderColor\":\"#333333\",\"textColor\":\"#FFFFFF\",\"fontSize\":11},\"text\":{\"textColor\":\"#FFFFFF\",\"fontSize\":13}},\"top\":{\"alignment\":\"topCenter\",\"panelStyle\":{\"radius\":0,\"blur\":0,\"color\":\"#000000\",\"borderColor\":\"rgba(255,255,255,0.1)\"},\"normal\":{\"left\":[{\"id\":\"back\"}],\"center\":[{\"id\":\"watching_label\",\"topText\":\"VOID CIRCUIT\",\"topColor\":\"@teio_gold\",\"bottomColor\":\"#FFFFFF\"},{\"id\":\"gap\",\"size\":12},{\"id\":\"episode_badge\"},{\"id\":\"quality_badge\"}],\"right\":[{\"id\":\"open_settings\"},{\"id\":\"lock_controls\"},{\"id\":\"toggle_fullscreen\"}]}},\"middle\":{\"alignment\":\"center\",\"normal\":{\"items\":[{\"id\":\"previous_episode\"},{\"id\":\"seek_back\",\"seconds\":10},{\"id\":\"play_pause\",\"primary\":true},{\"id\":\"seek_forward\",\"seconds\":10},{\"id\":\"next_episode\"}]}},\"bottom\":{\"alignment\":\"bottomCenter\",\"panelStyle\":{\"radius\":0,\"blur\":0,\"color\":\"#000000\",\"borderColor\":\"rgba(255,255,255,0.1)\"},\"normal\":{\"outside\":{\"right\":[{\"id\":\"mega_seek\"}]},\"left\":[{\"id\":\"time_current\"},{\"id\":\"playlist\"},{\"id\":\"shaders\"}],\"right\":[{\"id\":\"subtitles\"},{\"id\":\"audio_track\"},{\"id\":\"speed\"},{\"id\":\"quality\"},{\"id\":\"server\"},{\"id\":\"orientation\"},{\"id\":\"aspect_ratio\"},{\"id\":\"time_duration\"}]}}}]}\n",
+      "creatorName": "Milkywave",
+      "category": "AMOLED",
+      "previewData": null,
+      "previewImage": "https://raw.githubusercontent.com/Shebyyy/AnymeX-themes-db/main/uploads/previews/preview_1777897007734_72n9zp6ylz9.png",
+      "likesCount": 0,
+      "viewsCount": 0,
+      "status": "PENDING",
+      "createdBy": "cmodzkwu4h8nbl7mqrj6",
+      "createdAt": "2026-05-04T12:16:49.694Z",
+      "updatedAt": "2026-05-04T12:16:49.694Z"
     }
   ],
   "ThemeLike": [
