@@ -293,7 +293,7 @@
       "previewImage": null,
       "discordPostId": "1479837357200113785",
       "likesCount": 1,
-      "viewsCount": 32,
+      "viewsCount": 33,
       "status": "APPROVED",
       "createdBy": "cmmgm3qgn0000jv040asl80oo",
       "createdAt": "2026-03-08T10:10:38",
@@ -601,11 +601,6 @@
     {
       "id": "cmos1unylgdygy8j4c3j",
       "themeId": "cmmgadbak0001l804fm0bu2lk",
-      "userToken": "anymex_1777950539564_4k0p6a36n"
-    },
-    {
-      "id": "cmos1v2s0ollbxh5juv8",
-      "themeId": "cmmgdlizn0001kz0423pl624l",
       "userToken": "anymex_1777950539564_4k0p6a36n"
     }
   ],
