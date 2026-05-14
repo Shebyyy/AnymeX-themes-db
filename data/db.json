@@ -91,6 +91,16 @@
       "role": "THEME_CREATOR",
       "isActive": true,
       "createdAt": "2026-04-25T13:59:08.564Z"
+    },
+    {
+      "id": "cmp61oxfjx3fw7huy11d",
+      "username": "Hdx",
+      "passwordHash": "ba74e4392073c231dc3871e4245a1c4215a7d37a8202236aa6f59d0840a6b543",
+      "profileUrl": null,
+      "discordUserId": null,
+      "role": "THEME_CREATOR",
+      "isActive": true,
+      "createdAt": "2026-05-14T22:13:28.255Z"
     }
   ],
   "PasswordReset": [],
