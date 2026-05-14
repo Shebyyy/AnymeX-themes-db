@@ -91,16 +91,6 @@
       "role": "THEME_CREATOR",
       "isActive": true,
       "createdAt": "2026-04-25T13:59:08.564Z"
-    },
-    {
-      "id": "cmp61oxfjx3fw7huy11d",
-      "username": "Hdx",
-      "passwordHash": "ba74e4392073c231dc3871e4245a1c4215a7d37a8202236aa6f59d0840a6b543",
-      "profileUrl": null,
-      "discordUserId": null,
-      "role": "THEME_CREATOR",
-      "isActive": true,
-      "createdAt": "2026-05-14T22:13:28.255Z"
     }
   ],
   "PasswordReset": [],
@@ -288,6 +278,12 @@
       "userId": "cmmglu8g20000l7040av9gmdy",
       "token": "5a1f2fb3d83656247402a5726322f5ecd972edda432bd8ecebc966ef49e450e7",
       "expiresAt": "2026-05-11T13:48:15.487Z"
+    },
+    {
+      "id": "cmp61oxzsrw2vrjf3oem",
+      "userId": "cmp61oxfjx3fw7huy11d",
+      "token": "bbe3fb2c8eb6c0728f150f6005fe42f45de1d2d0bf88bd8ac73f6542e472129e",
+      "expiresAt": "2026-05-21T22:13:28.984Z"
     }
   ],
   "Theme": [
