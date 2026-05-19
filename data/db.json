@@ -91,6 +91,16 @@
       "role": "THEME_CREATOR",
       "isActive": true,
       "createdAt": "2026-04-25T13:59:08.564Z"
+    },
+    {
+      "id": "cmpc9cnj27z5u5v7aj8c",
+      "username": "CLNDSTN",
+      "passwordHash": "3fbb993422e8f2ecb8b3323398950c0e9e9296ed82b941f0195e6509e2befe32",
+      "profileUrl": null,
+      "discordUserId": null,
+      "role": "THEME_CREATOR",
+      "isActive": true,
+      "createdAt": "2026-05-19T06:34:29.534Z"
     }
   ],
   "PasswordReset": [],
