@@ -91,16 +91,6 @@
       "role": "THEME_CREATOR",
       "isActive": true,
       "createdAt": "2026-04-25T13:59:08.564Z"
-    },
-    {
-      "id": "cmpc9cnj27z5u5v7aj8c",
-      "username": "CLNDSTN",
-      "passwordHash": "3fbb993422e8f2ecb8b3323398950c0e9e9296ed82b941f0195e6509e2befe32",
-      "profileUrl": null,
-      "discordUserId": null,
-      "role": "THEME_CREATOR",
-      "isActive": true,
-      "createdAt": "2026-05-19T06:34:29.534Z"
     }
   ],
   "PasswordReset": [],
@@ -288,6 +278,12 @@
       "userId": "cmp61oxfjx3fw7huy11d",
       "token": "bbe3fb2c8eb6c0728f150f6005fe42f45de1d2d0bf88bd8ac73f6542e472129e",
       "expiresAt": "2026-05-21T22:13:28.984Z"
+    },
+    {
+      "id": "cmpc9co54ou2lpq8vj3c",
+      "userId": "cmpc9cnj27z5u5v7aj8c",
+      "token": "d1b6c660403d33c19f89607a523a500952488760427f9b4fa16983dc87eacecb",
+      "expiresAt": "2026-05-26T06:34:30.328Z"
     }
   ],
   "Theme": [
