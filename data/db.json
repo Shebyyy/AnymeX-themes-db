@@ -111,6 +111,16 @@
       "role": "THEME_CREATOR",
       "isActive": true,
       "createdAt": "2026-05-21T06:56:09.613Z"
+    },
+    {
+      "id": "cmpgnlgmj9d9f74fmxkd",
+      "username": "Devta",
+      "passwordHash": "b0cd5f8091934973ddbdf890843005fd2c154d2e9c3c3a6ff29161de11a55764",
+      "profileUrl": null,
+      "discordUserId": "1331083395614380090",
+      "role": "THEME_CREATOR",
+      "isActive": true,
+      "createdAt": "2026-05-22T08:24:19.819Z"
     }
   ],
   "PasswordReset": [],
