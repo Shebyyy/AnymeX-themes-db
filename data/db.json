@@ -121,6 +121,16 @@
       "role": "THEME_CREATOR",
       "isActive": true,
       "createdAt": "2026-05-22T08:24:19.819Z"
+    },
+    {
+      "id": "cmphftmk9vclkkvkuvnh",
+      "username": "Ismaelmed2011",
+      "passwordHash": "d96ae4542ff0f10109f668a16ea058afa21701f0020eacd7fc55e9bf3d5f6d63",
+      "profileUrl": null,
+      "discordUserId": null,
+      "role": "THEME_CREATOR",
+      "isActive": true,
+      "createdAt": "2026-05-22T21:34:30.009Z"
     }
   ],
   "PasswordReset": [],
