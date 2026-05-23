@@ -131,6 +131,16 @@
       "role": "THEME_CREATOR",
       "isActive": true,
       "createdAt": "2026-05-22T21:34:30.009Z"
+    },
+    {
+      "id": "cmpicb3tthw9lv2v8x3",
+      "username": "ProtozomiVR",
+      "passwordHash": "72c0e48c69bb4c8b83583ca9a85778bc314376eb28a6e07581618ff27b8b1895",
+      "profileUrl": "https://github.com/ProtozomiVR",
+      "discordUserId": null,
+      "role": "THEME_CREATOR",
+      "isActive": true,
+      "createdAt": "2026-05-23T12:43:53.249Z"
     }
   ],
   "PasswordReset": [],
