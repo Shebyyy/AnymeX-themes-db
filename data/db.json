@@ -447,7 +447,7 @@
       "previewData": null,
       "previewImage": "https://raw.githubusercontent.com/Shebyyy/AnymeX-themes-db/main/uploads/previews/preview_1777129277555_rz4hpoh0208.png",
       "likesCount": 2,
-      "viewsCount": 77,
+      "viewsCount": 78,
       "status": "APPROVED",
       "createdBy": "cmodzkwu4h8nbl7mqrj6",
       "createdAt": "2026-04-25T15:01:20.008Z",
@@ -501,7 +501,7 @@
       "previewData": null,
       "previewImage": "https://raw.githubusercontent.com/Shebyyy/AnymeX-themes-db/main/uploads/previews/preview_1779176026402_6rsp5fr0guq.png",
       "likesCount": 1,
-      "viewsCount": 49,
+      "viewsCount": 50,
       "status": "APPROVED",
       "createdBy": "cmpc9j11fnm2s0ozd4fh",
       "createdAt": "2026-05-19T07:33:48.100Z",
@@ -904,11 +904,6 @@
       "id": "cmrd1e2vtyg13imfq27p",
       "themeId": "cmoegw0egkgtq1zu7z19",
       "userToken": "anymex_1783573018691_r3jt9xbuo"
-    },
-    {
-      "id": "cmrgjjwmvjimbm8q1llg",
-      "themeId": "cmpcbgxc4gjifxcmysmm",
-      "userToken": "anymex_1783784959749_ydecb5i0v"
     }
   ],
   "AppSettings": []
