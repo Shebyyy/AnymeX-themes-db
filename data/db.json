@@ -141,6 +141,16 @@
       "role": "THEME_CREATOR",
       "isActive": true,
       "createdAt": "2026-05-23T12:43:53.249Z"
+    },
+    {
+      "id": "cmrge1qt2eoae4nlufr",
+      "username": "Na.aep",
+      "passwordHash": "439345e3462e0d3c0cc9e1dea8b8cf620622f860f3ad25402762cc2fad5ce494",
+      "profileUrl": null,
+      "discordUserId": null,
+      "role": "THEME_CREATOR",
+      "isActive": true,
+      "createdAt": "2026-07-11T13:16:28.022Z"
     }
   ],
   "PasswordReset": [],
