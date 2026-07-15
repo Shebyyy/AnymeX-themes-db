@@ -151,6 +151,16 @@
       "role": "THEME_CREATOR",
       "isActive": true,
       "createdAt": "2026-07-11T13:16:28.022Z"
+    },
+    {
+      "id": "cmrmn92xjeoi4q2uzz6m",
+      "username": "ozolo",
+      "passwordHash": "13f33f0984b557b23d903d725c5c00c475109fa9c2038be6e603e002733b6e13",
+      "profileUrl": null,
+      "discordUserId": null,
+      "role": "THEME_CREATOR",
+      "isActive": true,
+      "createdAt": "2026-07-15T22:20:43.927Z"
     }
   ],
   "PasswordReset": [],
