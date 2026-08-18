@@ -161,6 +161,16 @@
       "role": "THEME_CREATOR",
       "isActive": true,
       "createdAt": "2026-07-15T22:20:43.927Z"
+    },
+    {
+      "id": "cmsz1sbit9ogvqbitg3",
+      "username": "AsatoSaizen",
+      "passwordHash": "8f6511b9de155be9638f5d1b8bb2bf6784f1315b6a7f38e326b5bae4d7abea90",
+      "profileUrl": "https://github.com/saizenasato",
+      "discordUserId": "1143152698158497822",
+      "role": "THEME_CREATOR",
+      "isActive": true,
+      "createdAt": "2026-08-18T19:20:32.597Z"
     }
   ],
   "PasswordReset": [],
