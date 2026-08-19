@@ -592,7 +592,7 @@
       "category": "Dark",
       "previewData": null,
       "previewImage": "https://raw.githubusercontent.com/Shebyyy/AnymeX-themes-db/main/uploads/previews/preview_1787081214282_wk3zivccxha.jpg",
-      "likesCount": 0,
+      "likesCount": 1,
       "viewsCount": 8,
       "status": "APPROVED",
       "createdBy": "cmsz1sbit9ogvqbitg3",
@@ -689,6 +689,11 @@
       "id": "cmszfhc6d9dr1kpgmcdf",
       "themeId": "cmsz20jol4d5o94p2gb5",
       "userToken": "anymex_1787103811700_iz9owecq7"
+    },
+    {
+      "id": "cmszm38i0thm0alt8qc",
+      "themeId": "cmsz20jol4d5o94p2gb5",
+      "userToken": "anymex_1787114597399_um5xdjl9u"
     }
   ],
   "ThemeView": [
