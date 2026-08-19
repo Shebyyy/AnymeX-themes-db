@@ -557,7 +557,7 @@
       "previewData": null,
       "previewImage": "https://raw.githubusercontent.com/Shebyyy/AnymeX-themes-db/main/uploads/previews/preview_1779331853069_q48tn8mlfm8.jpeg",
       "likesCount": 0,
-      "viewsCount": 35,
+      "viewsCount": 36,
       "status": "APPROVED",
       "createdBy": "cmmglu8g20000l7040av9gmdy",
       "createdAt": "2026-05-21T02:50:54.508Z",
@@ -1005,11 +1005,6 @@
       "id": "cmsulrhzwwzor17xfxy",
       "themeId": "cmmgadbak0001l804fm0bu2lk",
       "userToken": "anymex_1780149452545_njrxlyq31"
-    },
-    {
-      "id": "cmszlzoln5u2dvm5do87",
-      "themeId": "cmpew8trg3o7q5w4bjeo",
-      "userToken": "anymex_1779180128744_owmuvqxrx"
     }
   ],
   "AppSettings": []
