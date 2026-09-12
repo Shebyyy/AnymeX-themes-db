@@ -171,6 +171,16 @@
       "role": "THEME_CREATOR",
       "isActive": true,
       "createdAt": "2026-08-18T19:20:32.597Z"
+    },
+    {
+      "id": "cmty1fyk0lfwu6c048u",
+      "username": "Dynamightyyz",
+      "passwordHash": "6304cd7fcd56c46723650dc25e84b0351d76b40633e8b5c45bead92639e06599",
+      "profileUrl": null,
+      "discordUserId": null,
+      "role": "THEME_CREATOR",
+      "isActive": true,
+      "createdAt": "2026-09-12T07:02:52.080Z"
     }
   ],
   "PasswordReset": [],
