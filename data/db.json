@@ -181,6 +181,16 @@
       "role": "THEME_CREATOR",
       "isActive": true,
       "createdAt": "2026-09-12T07:02:52.080Z"
+    },
+    {
+      "id": "cmuj453rjvjx0l8xq4hn",
+      "username": "Wibu",
+      "passwordHash": "caae5e45fd77fb226a29575e3eb964c4c69a92bd39e8dbd50a8dadb851433e33",
+      "profileUrl": null,
+      "discordUserId": null,
+      "role": "THEME_CREATOR",
+      "isActive": true,
+      "createdAt": "2026-09-27T01:01:34.159Z"
     }
   ],
   "PasswordReset": [],
