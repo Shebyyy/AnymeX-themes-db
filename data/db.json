@@ -191,6 +191,16 @@
       "role": "THEME_CREATOR",
       "isActive": true,
       "createdAt": "2026-09-27T01:01:34.159Z"
+    },
+    {
+      "id": "cmvpcnceum5einxib42d",
+      "username": "Ichigo",
+      "passwordHash": "9832d3e2c63d1c0bbd2895344c9406be9cca1ffa95fdca6d4972dfcf5f6bb6f4",
+      "profileUrl": null,
+      "discordUserId": null,
+      "role": "THEME_CREATOR",
+      "isActive": true,
+      "createdAt": "2026-10-26T14:26:01.494Z"
     }
   ],
   "PasswordReset": [],
