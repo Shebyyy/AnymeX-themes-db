@@ -563,7 +563,7 @@
       "previewData": null,
       "previewImage": "https://raw.githubusercontent.com/Shebyyy/AnymeX-themes-db/main/uploads/previews/preview_1777897007734_72n9zp6ylz9.png",
       "likesCount": 0,
-      "viewsCount": 59,
+      "viewsCount": 58,
       "status": "APPROVED",
       "createdBy": "cmodzkwu4h8nbl7mqrj6",
       "createdAt": "2026-05-04T12:16:49.694Z",
@@ -1231,6 +1231,11 @@
     {
       "id": "cmvsw2qnuqgvi015z81",
       "themeId": "cmmgadbak0001l804fm0bu2lk",
+      "userToken": "anymex_1793238364058_0hpsqdwvj"
+    },
+    {
+      "id": "cmvv1nk9bzedx9mdjz3",
+      "themeId": "cmor5z4f2o0gezze265",
       "userToken": "anymex_1793238364058_0hpsqdwvj"
     }
   ],
