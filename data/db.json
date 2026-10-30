@@ -671,7 +671,7 @@
       "previewData": null,
       "previewImage": "https://raw.githubusercontent.com/Shebyyy/AnymeX-themes-db/main/uploads/previews/preview_1793025145976_m7pzsbtkpbm.jpg",
       "likesCount": 0,
-      "viewsCount": 0,
+      "viewsCount": 1,
       "status": "PENDING",
       "createdBy": "cmvpcnceum5einxib42d",
       "createdAt": "2026-10-26T14:32:28.474Z",
@@ -1231,11 +1231,6 @@
     {
       "id": "cmvsw2qnuqgvi015z81",
       "themeId": "cmmgadbak0001l804fm0bu2lk",
-      "userToken": "anymex_1793238364058_0hpsqdwvj"
-    },
-    {
-      "id": "cmvv1n4fal1b5xg28gf",
-      "themeId": "cmvpcvn0agyjnewh77t4",
       "userToken": "anymex_1793238364058_0hpsqdwvj"
     }
   ],
